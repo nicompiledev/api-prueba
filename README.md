@@ -15,7 +15,7 @@ Siga estos pasos para instalar y ejecutar la aplicación en su entorno local:
 2. Vaya al directorio del proyecto:
 
     ```bash
-    cd prueba-dev-react
+    cd api-prueba
     ```
 
 3. Instale las dependencias utilizando npm:
