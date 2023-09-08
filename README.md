@@ -36,9 +36,9 @@ La aplicación se abrirá en su navegador en http://localhost:3000. Puede comenz
 
 ## Descripción de la aplicación
 
-Esta aplicación le permite ver una lista de archivos importados, incluyendo información sobre su estado, tipo, fecha de creación y nombre del archivo. Puede utilizar los filtros disponibles para buscar archivos específicos según su estado, tipo, fecha y nombre.
+Esta aplicación le permite ver una lista de archivos importados en la API suministrada para la prueba, incluyendo información sobre su estado, tipo, fecha de creación y nombre del archivo. Puede utilizar los filtros disponibles para buscar archivos específicos según su estado, tipo, fecha y nombre.
 
-La aplicación también proporciona opciones de paginación para navegar a través de los resultados de la búsqueda y una toda la Interfaz de Usuario es responsive y completamenta en español.
+La aplicación también proporciona opciones de paginación para navegar a través de los resultados de la búsqueda. Toda la Interfaz de Usuario es responsive y completamente en español.
 
 ## Agradecimientos
 
